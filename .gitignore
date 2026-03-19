@@ -1,0 +1,6 @@
+.agent/
+.cursor/
+.vscode/
+node_modules/
+dist/
+.DS_Store
