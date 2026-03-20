@@ -16,8 +16,7 @@ Task:
 
 ## Starter code
 
-- Medium and Hard: `starter/CircuitBreakerBug.tsx`
-- Easy: `starter/CircuitBreakerBugEasy.tsx`, a simplified version with circuit breaker scaffolding removed so the candidate can focus on the render loop.
+See `starter/CircuitBreakerBug.tsx`.
 
 ## Constraints
 

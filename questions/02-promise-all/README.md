@@ -28,9 +28,5 @@ See `starter/PromiseAllBug.ts`.
 
 - One failed endpoint does not block successful sections.
 - Errors for failed sections are visible and identifiable.
-
-Additional criteria by tier:
-
-- Medium and Hard: per section state is explicit, loading, success, failed.
-- Medium and Hard: retry can target a failed section without resetting healthy ones.
-
+- Stretch: per-section state is explicit, loading, success, or failed.
+- Stretch: retry targets a failed section without resetting healthy ones.
