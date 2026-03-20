@@ -10,7 +10,7 @@ Task:
 2. Fix it so the first client render matches server output exactly.
 3. Explain why your fix is correct.
 
-Note: the local dev server is client-only, but the test suite uses `renderToString` to verify server-client consistency. Run `bun run test` to confirm your fix.
+Note: the local dev server is client-only, but the test suite uses `renderToString` to verify server-client consistency. Run `npm run test` to confirm your fix.
 
 ## Timebox
 
